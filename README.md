@@ -7,4 +7,5 @@ create a simple projects
 + WORDPAD
 - WINWORD 
 [my web site](https://www.iantindia.com/)
+![iant][logo.jpg]
 
