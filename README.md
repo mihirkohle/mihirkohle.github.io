@@ -8,5 +8,5 @@ create a simple projects
 - WINWORD 
 [my web site](https://www.iantindia.com/)
 
-![iant][logo.jpg]
+![iant](logo.jpg)
 
